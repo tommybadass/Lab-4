@@ -1,0 +1,43 @@
+{
+    "companyName": "I-Scream Company Inc.",
+    "headOffice": "North Pole",
+    "established": 2025,
+    "active": true,
+    "topFlavors": [
+        {
+            "name": "Chocolate Mint",
+            "calories": 240,
+            "type": "ice-cream",
+            "ingredients": ["Chocolate Syrup", "Peppermint Sprinkle", "Vanilla Base"],
+            "image": "images/chocolate-mint.svg"
+        },
+        {
+            "name": "Peach Mango",
+            "calories": 285,
+            "type": "milkshake-type ice-cream",
+            "ingredients": ["Peach Syrup", "Mango Chunks", "Vanilla Base"],
+            "image": "images/peach-mango.svg"
+        },
+        {
+            "name": "Strawberry Sprinkle",
+            "calories": 300,
+            "type": "ice-cream",
+            "ingredients": ["Chocolate Syrup", "Strawberry Chunks", "Vanilla Base", "Sprinkles"],
+            "image": "images/chocolate-mint.svg"
+        },
+        {
+            "name": "Blueberry Cheesecake",
+            "calories": 320,
+            "type": "ice-cream",
+            "ingredients": ["Blueberry Syrup", "Cheesecake Chunks", "Vanilla Base"],
+            "image": "images/ice-cream-xtra1.svg"
+        },
+        {
+            "name": "Caramel Swirl",
+            "calories": 290,
+            "type": "ice-cream",
+            "ingredients": ["Caramel Sauce", "Sea Salt", "Vanilla Base"],
+            "image": "images/ice-cream-xtra2.svg"
+        }
+    ]
+}
