@@ -14,7 +14,7 @@
         {
             "name": "Peach Mango",
             "calories": 285,
-            "type": "milkshake-type ice-cream",
+            "type": "ice-cream",
             "ingredients": ["Peach Syrup", "Mango Chunks", "Vanilla Base"],
             "image": "images/peach-mango.svg"
         },
